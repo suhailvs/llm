@@ -1,5 +1,1 @@
-transformers 
-datasets 
-accelerate 
-torch 
-gpt4all
+gpt4all==2.8.2
